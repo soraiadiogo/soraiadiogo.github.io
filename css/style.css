@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+body {
+	font-family: 'Inconsolata', monospace;
+	font-size: 1.5em !important;
+}
+
+.jumbotron {
+	border-radius: 0px !important;
+}
+.rodape {
+	height: 800px;
+}
+
+.gradiente {
+	background: linear-gradient(to left,#8FBC8F, #B8860B)
+}
